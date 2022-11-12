@@ -20,9 +20,7 @@
 提出方法は前回と同じです。
 ![Sample Image](https://user-images.githubusercontent.com/83213179/199967874-868996f4-efb9-439d-bb58-10bd56497f55.png)
 
-ページ内に使うファイルは下のページからダウンロードしてください。各画像の説明等は適切につけておいてください。
-
-- [DropBox](https://www.dropbox.com/sh/ca4dyob3fwn9psy/AABK_0Dwor6ISwHuoEXwdSKsa?dl=0)
+ページ内に使うファイルはこのリポジトリの03フォルダの中のを使用してください。各画像の説明等は適切につけておいてください。
 
 また、ページ内にYoutubeの動画を埋め込む時に下のコードを利用してください
 
