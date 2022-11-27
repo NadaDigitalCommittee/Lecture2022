@@ -24,4 +24,4 @@ formのaction属性には "https://script.google.com/macros/s/AKfycbzyGcZiX4Jttz
 
 提出方法は前回と同じです。
 
-![Sample Image](https://user-images.githubusercontent.com/83213179/204123999-c9bde91b-fbad-4fe3-8d71-e8df8bcc5e73.png)
+![Sample Image](https://user-images.githubusercontent.com/83213179/204131157-1f81ab2b-4e18-4221-9d2b-633c80142852.png)
