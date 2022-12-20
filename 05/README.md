@@ -1,5 +1,5 @@
 # 第05回 CSS入門
-- 目安提出日: 12月18日(日)
+- 目安提出日: 12月25日(日)
 - [該当ページ](https://developer.mozilla.org/ja/docs/Learn/CSS/First_steps)
 
 ## 必須項目
