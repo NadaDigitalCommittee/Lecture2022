@@ -16,6 +16,8 @@
 ## 課題
 上の必須項目を読み、HTMLだけで下の画像のようなページを作ってください。また、ファビコンは下にあるデジ委のロゴを保存して使用すること。
 
+文章の中身は完全に再現する必要は無いです　同じ感じの長さなら"あああああ"など適当な文字列でもOKです
+
 提出方法は前回と同じです。
 ![Sample Image](https://user-images.githubusercontent.com/83213179/198302844-e97f817a-2a9d-4bec-933b-7ba5eafaa1a9.png)
 ![favicon.ico](https://user-images.githubusercontent.com/83213179/198303046-88f85fff-516d-49a8-974f-537d03cd6e32.png)
